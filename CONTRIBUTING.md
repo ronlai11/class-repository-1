@@ -1,5 +1,5 @@
-# Guidelines for Contributors
+# *Guidelines* for Contributors
 
-* Read the docs.
+* Read the [docs](https://guides.github.com/features/mastering-markdown/).
 * Build.
-* blah blah blah!
+* **blah blah blah**!

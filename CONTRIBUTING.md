@@ -1,5 +1,5 @@
 # Guidelines for Contributors
 
-* Read the docs
-* Build
-* blah blah blah
+* Read the docs.
+* Build.
+* blah blah blah!
